@@ -1,0 +1,6 @@
+[submodule "Multi-Protocol-Gateway"]
+	path = Multi-Protocol-Gateway
+	url = https://github.com/jisu9867/Multi-Protocol-Gateway.git
+[submodule "Multi-Protocol-Simulator"]
+	path = Multi-Protocol-Simulator
+	url = https://github.com/jisu9867/Multi-Protocol-Simulator.git
