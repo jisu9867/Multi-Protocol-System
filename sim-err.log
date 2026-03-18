@@ -1,0 +1,22 @@
+2026/03/18 19:49:49 Configuration loaded:
+2026/03/18 19:49:49   RandomFactory: true
+2026/03/18 19:49:49   RandomSource: true
+2026/03/18 19:49:49   FactoryID: 
+2026/03/18 19:49:49   SourceID: 
+2026/03/18 19:49:49   Tags: 6
+2026/03/18 19:49:49 [MQTT] Attempting connection 1/10 to tcp://localhost:1884...
+2026/03/18 19:49:49 [MQTT] Successfully connected to tcp://localhost:1884
+2026/03/18 19:49:50 [MQTT] Publishing to topic: factory/line-1/ulsan-line1/telemetry
+2026/03/18 19:49:50 [MQTT] Successfully published to factory/line-1/ulsan-line1/telemetry
+2026/03/18 19:49:51 [MQTT] Publishing to topic: factory/line-1/asan-line1/telemetry
+2026/03/18 19:49:51 [MQTT] Successfully published to factory/line-1/asan-line1/telemetry
+2026/03/18 19:49:52 [MQTT] Publishing to topic: factory/line-1/ulsan-line2/telemetry
+2026/03/18 19:49:52 [MQTT] Successfully published to factory/line-1/ulsan-line2/telemetry
+2026/03/18 19:49:53 [MQTT] Publishing to topic: factory/line-1/asan-line2/telemetry
+2026/03/18 19:49:53 [MQTT] Successfully published to factory/line-1/asan-line2/telemetry
+2026/03/18 19:49:54 [MQTT] Publishing to topic: factory/line-1/asan-line1/telemetry
+2026/03/18 19:49:54 [MQTT] Successfully published to factory/line-1/asan-line1/telemetry
+2026/03/18 19:49:55 [MQTT] Publishing to topic: factory/line-1/ulsan-line1/telemetry
+2026/03/18 19:49:55 [MQTT] Successfully published to factory/line-1/ulsan-line1/telemetry
+2026/03/18 19:49:56 [MQTT] Publishing to topic: factory/line-1/ulsan-line3/telemetry
+2026/03/18 19:49:56 [MQTT] Successfully published to factory/line-1/ulsan-line3/telemetry
